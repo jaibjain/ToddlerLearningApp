@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Kids Learning App",
+    "slug": "kids-learning-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF4D6"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.kidslearningapp"
+    },
+    "android": {
+      "package": "com.yourname.kidslearningapp"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

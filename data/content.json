@@ -1,0 +1,42 @@
+{
+  "letters": [
+    { "letter": "A", "word": "Apple", "emoji": "🍎", "phrase": "A! A is for Apple." },
+    { "letter": "B", "word": "Ball", "emoji": "⚽", "phrase": "B! B is for Ball." },
+    { "letter": "C", "word": "Cat", "emoji": "🐱", "phrase": "C! C is for Cat." },
+    { "letter": "D", "word": "Dog", "emoji": "🐶", "phrase": "D! D is for Dog." },
+    { "letter": "E", "word": "Elephant", "emoji": "🐘", "phrase": "E! E is for Elephant." },
+    { "letter": "F", "word": "Fish", "emoji": "🐟", "phrase": "F! F is for Fish." },
+    { "letter": "G", "word": "Grapes", "emoji": "🍇", "phrase": "G! G is for Grapes." },
+    { "letter": "H", "word": "Hat", "emoji": "🎩", "phrase": "H! H is for Hat." },
+    { "letter": "I", "word": "Ice Cream", "emoji": "🍦", "phrase": "I! I is for Ice Cream." },
+    { "letter": "J", "word": "Juice", "emoji": "🧃", "phrase": "J! J is for Juice." },
+    { "letter": "K", "word": "Kite", "emoji": "🪁", "phrase": "K! K is for Kite." },
+    { "letter": "L", "word": "Lion", "emoji": "🦁", "phrase": "L! L is for Lion." },
+    { "letter": "M", "word": "Moon", "emoji": "🌙", "phrase": "M! M is for Moon." },
+    { "letter": "N", "word": "Nest", "emoji": "🪺", "phrase": "N! N is for Nest." },
+    { "letter": "O", "word": "Orange", "emoji": "🍊", "phrase": "O! O is for Orange." },
+    { "letter": "P", "word": "Pig", "emoji": "🐷", "phrase": "P! P is for Pig." },
+    { "letter": "Q", "word": "Queen", "emoji": "👑", "phrase": "Q! Q is for Queen." },
+    { "letter": "R", "word": "Rainbow", "emoji": "🌈", "phrase": "R! R is for Rainbow." },
+    { "letter": "S", "word": "Sun", "emoji": "☀️", "phrase": "S! S is for Sun." },
+    { "letter": "T", "word": "Tiger", "emoji": "🐯", "phrase": "T! T is for Tiger." },
+    { "letter": "U", "word": "Umbrella", "emoji": "☂️", "phrase": "U! U is for Umbrella." },
+    { "letter": "V", "word": "Van", "emoji": "🚐", "phrase": "V! V is for Van." },
+    { "letter": "W", "word": "Watermelon", "emoji": "🍉", "phrase": "W! W is for Watermelon." },
+    { "letter": "X", "word": "X-ray", "emoji": "🩻", "phrase": "X! X is for X-ray." },
+    { "letter": "Y", "word": "Yoyo", "emoji": "🪀", "phrase": "Y! Y is for Yoyo." },
+    { "letter": "Z", "word": "Zebra", "emoji": "🦓", "phrase": "Z! Z is for Zebra." }
+  ],
+  "numbers": [
+    { "number": 1, "word": "One", "emoji": "⭐", "phrase": "One! Here is one star." },
+    { "number": 2, "word": "Two", "emoji": "⭐", "phrase": "Two! Here are two stars." },
+    { "number": 3, "word": "Three", "emoji": "⭐", "phrase": "Three! Here are three stars." },
+    { "number": 4, "word": "Four", "emoji": "⭐", "phrase": "Four! Here are four stars." },
+    { "number": 5, "word": "Five", "emoji": "⭐", "phrase": "Five! Here are five stars." },
+    { "number": 6, "word": "Six", "emoji": "⭐", "phrase": "Six! Here are six stars." },
+    { "number": 7, "word": "Seven", "emoji": "⭐", "phrase": "Seven! Here are seven stars." },
+    { "number": 8, "word": "Eight", "emoji": "⭐", "phrase": "Eight! Here are eight stars." },
+    { "number": 9, "word": "Nine", "emoji": "⭐", "phrase": "Nine! Here are nine stars." },
+    { "number": 10, "word": "Ten", "emoji": "⭐", "phrase": "Ten! Here are ten stars." }
+  ]
+}
